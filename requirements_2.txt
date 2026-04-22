@@ -1,0 +1,5 @@
+# Red Bull Simulator Leaderboard — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+customtkinter>=5.2.2
+pandas>=2.0.0
